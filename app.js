@@ -1,3 +1,6 @@
+javascript
+...
+
 document.getElementById("adicionar").addEventListener('click'.fuction)(){
 const itemselecionado = document.getElementById('item').value;
 

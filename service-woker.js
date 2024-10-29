@@ -1,3 +1,5 @@
+
+
 self.addEventListener('install',(event) => {
     event.waitUntil(
 caches.open('lista-de-compras-v1').then(cache) => {
